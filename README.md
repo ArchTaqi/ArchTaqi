@@ -14,8 +14,6 @@ A lead engineer with 5+ years of experience and a desire to solve problems. Inte
 - 🤔 I’m looking for help with **Cloud Deployment**
 - 💬 Ask me about **My Goals**
 
----
-
 ## :trophy: My Github Stats
 <p align="left" justify="center">
   <a href="https://github.com/archtaqi/github-readme-stats" target="_blank" justify="center">
