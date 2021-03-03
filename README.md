@@ -14,10 +14,12 @@ A lead engineer with 5+ years of experience and a desire to solve problems. Inte
 - 🤔 I’m looking for help with **Cloud Deployment**
 - 💬 Ask me about **My Goals**
 
-## :trophy: My Github Stats
-<p align="left" justify="center">
-  <a href="https://github.com/archtaqi/github-readme-stats" target="_blank" justify="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=archtaqi&show_icons=true&title_color=2e2e2e&hide=issues&include_all_commits=true&count_private=true"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=archtaqi&hide=html,css,Jupyter+Notebook" />
-  </a>
-</p>
+
+
+
+👯 I’m looking to collaborate on interesting open source projects if you need help.
+
+![](https://komarev.com/ghpvc/?username=ArchTaqi)
+
+***
+
