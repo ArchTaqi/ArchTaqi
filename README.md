@@ -18,7 +18,9 @@ A lead engineer with 5+ years of experience and a desire to solve problems. Inte
 
 👯 I’m looking to collaborate on interesting open source projects if you need help.
 
+[![Taqi's github stats](https://github-readme-stats.rckstrbhushan.vercel.app/api?username=archtaqi&show_icons=true&hide_title=true)](https://github.com/archtaqi/github-readme-stats)
+
+
 ![](https://komarev.com/ghpvc/?username=ArchTaqi)
 
 ***
-
