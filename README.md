@@ -14,6 +14,15 @@ A lead engineer with 5+ years of experience and a desire to solve problems. Inte
 - 💬 Ask me about **My Goals**
 
 
+<details>
+  <summary><strong>:star2: Certifications</strong></summary>
+  <p>
+    <ul>
+      <li>AWS Developer Associate</li>
+      <li>AWS Cloud Practitioner</li>
+    </ul>
+  </p>
+</details>
 
 
 👯 I’m looking to collaborate on interesting open source projects if you need help.
