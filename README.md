@@ -7,9 +7,13 @@
 - 📝 I regularly write articles on [Medium](https://medium.com/@ArchTaqi)
 - 💬 Ask me about **My Goals**
 
+
+#### 🌱 My latest projects
+
+- erc404-nftmarketplace - Build a Semi-Fungible ERC404 Tokens' Marketplace
+
+
 You can find me on [github](https://github.com/archtaqi), or [twitter](https://twitter.com/archtaqi). You can also message me at [telegram](https://t.me/archtaqi).
-
-
 
 ## 🔧 Stack
 ![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=macos&logoColor=white&color=313340)
