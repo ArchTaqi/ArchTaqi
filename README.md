@@ -10,7 +10,9 @@
 
 #### 🌱 My latest projects
 
-- erc404-nftmarketplace - Build a Semi-Fungible ERC404 Tokens' Marketplace
+##### Web3.0
+
+- [erc404-nftmarketplace](https://github.com/ArchTaqi/erc404-nftmarketplace) - Build a Semi-Fungible ERC404 Tokens' Marketplace
 
 
 You can find me on [github](https://github.com/archtaqi), or [twitter](https://twitter.com/archtaqi). You can also message me at [telegram](https://t.me/archtaqi).
