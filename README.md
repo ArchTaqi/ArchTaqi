@@ -12,6 +12,7 @@ I am Taqi, a seasoned software developer with more than eight years of diverse e
 
 ##### DevOps
 
+- [tf-project-structure](https://github.com/ArchTaqi/tf-project-structure) -  Terraform Project Structure with Multi enviornment and CICD with Github Actions.
 - [terraform-alb](https://github.com/ArchTaqi/terraform-alb) - Managing Application Load Balancer (ALB) Traffic routes with Terraform
 
 
