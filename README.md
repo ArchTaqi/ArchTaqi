@@ -14,7 +14,7 @@ I am Taqi, a seasoned software developer with more than eight years of diverse e
 
 - [tf-project-structure](https://github.com/ArchTaqi/tf-project-structure) -  Terraform Project Structure with Multi enviornment and CICD with Github Actions.
 - [terraform-alb](https://github.com/ArchTaqi/terraform-alb) - Managing Application Load Balancer (ALB) Traffic routes with Terraform
-
+- [tf-aws-cloudtrail](https://github.com/ArchTaqi/tf-aws-cloudtrail) - Provisioning AWS CloudTrail using Terraform
 
 You can find me on [github](https://github.com/archtaqi), or [twitter](https://twitter.com/archtaqi). You can also message me at [telegram](https://t.me/archtaqi).
 
